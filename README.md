@@ -1,5 +1,5 @@
 ## Sobre mi:
-Hola 👋, <br> Soy Brian Desarrollador FrontEnd, actualmente estoy en busca de empleo o proyectos donde pueda ganar experiencia práctica y aplicar mis conocimientos en un entorno profesional. He estudiado distintas tecnologías tanto en cursos como de forma autodidacta, en mis repositorios podrás ver varios proyectos que he realizado. <br> Estoy motivado por seguir aprendiendo nuevas herramientas y contribuir en un equipo, aportando lo mejor de mí para lograr resultados de calidad en conjunto.
+Hola 👋, <br> Soy Brian Desarrollador FrontEnd, actualmente estoy en busca de empleo o proyectos donde pueda ganar experiencia práctica y aplicar mis conocimientos en un entorno profesional. He estudiado distintas tecnologías tanto en cursos como de forma autodidacta, en mis repositorios podrás ver varios proyectos que he realizado. <br> <br> Estoy motivado por seguir aprendiendo nuevas herramientas y contribuir en un equipo, aportando lo mejor de mí para lograr resultados de calidad en conjunto.
 
 ## 🌐 Mis redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-uriel-marchese/)
